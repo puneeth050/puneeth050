@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puneeth050
 - 👀 I’m interested in ... Development
-- 🌱 I’m currently learning ... React, MongoDB
+- 🌱 I’m currently learning ... NextJS, Next-Auth, MongoDB
 - 💞️ I’m looking to collaborate on ... Ecommerce Application Build
 - 📫 How to reach me ... puneeth7123@gmail.com
 
